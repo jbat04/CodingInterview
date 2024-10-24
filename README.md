@@ -1,4 +1,4 @@
-# interview Assignment
+# Interview Assignment
 
 ## Assignment Description:
 
@@ -27,6 +27,7 @@ Please send us the solution in advance of the interview so we can set it up for 
 * A driver doesn't leave and return to a country between gps pings
 * Google decided to give us free credits to use their API's
 * A gps's first ping is at its start location
+* A driver will often, but not always, start at his "homebase" location
 
 
 ## Aspects I would improve with more time
@@ -35,7 +36,6 @@ Please send us the solution in advance of the interview so we can set it up for 
 * Logging as much as possible, levels; info, warn, error 
 * Write tests, unit and integration
 * Make the report more flexible, different kinds of params/filters
-* A driver will often, but not always, start at his "homebase" location
 
 
 ## FileTree
